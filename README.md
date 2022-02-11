@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # EvenSandvik.github.io
 spill
-=======
 <h1 align="center">
     <img alt="An Example .io Game" title="An Example .io Game" src="https://github.com/vzhou842/example-.io-game/blob/master/public/assets/icon.svg" width="140"> <br />
     An Example .io Game
